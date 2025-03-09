@@ -11,6 +11,6 @@ This project is used for tracking changes in my Creality Ender 3  3D printer
 SW:
 - Merlin v2.x (https://marlinfw.org/)
 
-# Version 1.0  (01.01.2024)
+## Version 1.0  (01.01.2024)
 - based on Marlin-2.1.2.2
 - add BL-Touch support
