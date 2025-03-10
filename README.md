@@ -1,4 +1,4 @@
-# 3dprint-ender3-merlin
+# 3dprint-ender3-marlin
 3D-printer Creality Ender 3 firmware & configuration project
 
 This project is used for tracking changes in my Creality Ender 3  3D printer
